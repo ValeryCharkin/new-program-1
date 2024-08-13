@@ -16,6 +16,17 @@ public class Main {
 
         }
 
-        System.out.println(bonus);
+        int finalScore;
+        {
+            finalScore = (bonus + replenishment);
+
+            System.out.println();
+
+            System.out.println  ( finalScore );
+
+            System.out.println (bonus);
+
+
+        }
     }
 }
